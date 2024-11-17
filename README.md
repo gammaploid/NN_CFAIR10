@@ -1,9 +1,9 @@
 # CIFAR-10 Image Classification with Convolutional Neural Networks (CNN)
 
 ## Description
-This project implements image classification on the CIFAR-10 dataset using Convolutional Neural Networks (CNNs).
+This project explores, develop, and evaluates various CNN architectures trained on CIFAR-10 dataset. 
 
-The objective is to build CNN models, experiment and explore various deep learning neural network architectures, model optimisation and regularisation techniques, hyperparameter tuning, and data augmentation to accurately predict the class of each image while ensuring models do not exhibit overfitting.
+The objective is to build CNN models in aim to experiment and explore various deep learning neural network architectures, model optimisation and regularisation techniques, hyperparameter tuning, and data augmentation to accurately predict the class of each image while ensuring models do not exhibit overfitting.
 
 In this initial approach, we achieved a prediction accuracy of 75-79%, and these models accuracies can be further improved with additional training.
 

@@ -1,5 +1,6 @@
 # CIFAR-10 Image Classification with Convolutional Neural Networks (CNN)
 
+
 ## Description
 This project explores, develops, and evaluates various CNN architectures trained on CIFAR-10 dataset. 
 
@@ -15,9 +16,13 @@ In this initial approach, we achieved a prediction accuracy of 75-79%, and these
 - Very Deep Convolutional Network (VGG) model
 
 ## Prerequisites
-- Python 3.x
-- PyTorch
-- Torchvision
+- **Python 3.x**
+- **Pip**: Python package installer, alternatively you could use Conda.
+- **Libraries**:
+  - **PyTorch**
+  - **Torchvision**
+  - **NumPy**
+  - **Matplotlib**
 
 ## License
 This project is licensed under the MIT License. 
